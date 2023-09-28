@@ -1,0 +1,51 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.row{
+  background-color:white;
+  border-radius: 30px;
+  box-shadow: 15px 15px 29px;
+  width:auto;
+  height: 37.5rem;
+}
+img{
+  width:120%;
+  height: 37.5rem;
+  border-top-left-radius:40%;
+  border-bottom-right-radius: 40%;
+}
+.login h1{
+  font-size: 4rem;
+  font-weight:300px ;
+}
+.inp{
+  height: 50px;
+  width: 70%;
+  border: none;
+  outline: none;
+  border-radius: 60px;
+  box-shadow: -26px -19px 30px -19px rgba(0,0,0,0.35);
+}
+.btn1{
+  width:200px;
+  height: 50px;
+  border:none;
+  outline: none;
+  border-radius: 60px;
+  font-weight: 600;
+  background-color: rgb(189,207,243);
+  color: red;
+}
+.fa-facebook:hover{
+  background-color: blue;
+}
+.log{
+  padding: 20px;
+  font-size: 15px;
+}
+.social-icons{
+  margin:10px;
+  gap:30%;
+}
